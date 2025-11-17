@@ -11,8 +11,8 @@ npm install
 
 
 Start the server:
-
-npm run dev
+npm start - node server.js
+npm run dev - nodemon server.js
 
 
 Server runs at:
